@@ -7,6 +7,8 @@ randon_number_result = random.randint(lower, upper)
 
 print(randon_number_result)
 
+print('I love you')
+
 
 
 
